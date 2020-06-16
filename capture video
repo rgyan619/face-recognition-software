@@ -1,0 +1,17 @@
+#PROJECT TO CAPTURE A VIDEO USING CV2 WITH PYTHON3
+import cv2
+cap = cv2.VideoCapture(0)    # 0 means we added the first camera
+while True:
+    status,photo= cap.read()    # capturing the pics
+    gray=cv2.cvtColor(photo,cv2.COLOR_BGR2GRAY)
+    cv2.imshow('My image',gray)        # show the pics in screen
+    if cv2.waitKey(1) == 32:            # hold the pics till u press scape (32)
+        break
+
+cv2.destroyAllWindows()
+cap.release()                   # release the camera ( Off the camera)
+
+
+
+
+
