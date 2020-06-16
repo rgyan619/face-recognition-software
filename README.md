@@ -1,5 +1,5 @@
 # face-recognition-software
-A fully develop A.I based face recognition software that provide the machine the ability to remember the person.  
+A fully develop A.I based face recognition software that provide machine the ability to remember the person.  
 HOW TO USE: 
 
 1) Install python on your computer and add cv2 library in it using 'pip install opencv-python'.     
