@@ -10,6 +10,7 @@ HOW TO USE:
    Then copy the program 'training the computer {2}' as training.py and excute it. 
 
 3) And now just copy the program 'face recognition software {3}' as face_recognition.py and excute it.
+   ![alt-text](https://github.com/rgyan619/face-recognition-software/blob/master/me.png)
 
 NOTE: For more information contact me on linkdin https://www.linkedin.com/in/gyan-ranjan-096797148 
     
