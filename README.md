@@ -11,6 +11,6 @@ HOW TO USE:
 
 3) And now just copy the program 'face recognition software {3}' as face_recognition.py and excute it.
 
-NOTE: For more information contact me on linkdin linkedin.com/in/gyan-ranjan-096797148 
+NOTE: For more information contact me on linkdin https://www.linkedin.com/in/gyan-ranjan-096797148 
     
   ENJOY THE SOFTWARE!!!
