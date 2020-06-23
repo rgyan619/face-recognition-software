@@ -13,6 +13,6 @@ A fully develop A.I. based face recognition software that provide machine the ab
 
    ![alt-text](https://github.com/rgyan619/face-recognition-software/blob/master/me.png)
 
-NOTE: For more information contact me on linkedin https://www.linkedin.com/in/gyan-ranjan-096797148 
+NOTE: For more information contact me on linkedin: https://www.linkedin.com/in/gyan-ranjan-096797148 
     
-  **ENJOY THE SOFTWARE!!!**
+  **ENJOY THE SOFTWARE!**
