@@ -1,6 +1,6 @@
-# face-recognition-software
+# FACE RECONGNITION SOFTWARE
 A fully develop A.I. based face recognition software that provide machine the ability to remember the person.  
-**HOW TO USE:** 
+# HOW TO USE: 
 
 1) Install python on your computer and add cv2 library in it using **pip install opencv-python**.     
    Make a folder named as **dataset** in the same library.    
